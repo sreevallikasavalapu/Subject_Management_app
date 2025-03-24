@@ -14,14 +14,6 @@ A web application that allows users to add, edit, and delete subjects dynamicall
 
 ✅ Responsive design
 
-## 🖥️ Tech Stack
-Frontend: React.js, Bootstrap
-
-Backend: .NET Web API
-
-Database: SQL Server
-
-Version Control: Git & GitHub
 
 ## 📸 Web Page(Output)
 
